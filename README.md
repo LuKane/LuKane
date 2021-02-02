@@ -2,5 +2,5 @@
 
 ### 👋 Hello world 👋
  - 🌱	Objective-C && Swift for iOS
- - 🚶	Like work   Like travel   Like life
+ - 🚶	❤️ work   ❤️ travel   ❤️ life
  - 🍼 Super Dady Now
